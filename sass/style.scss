@@ -1,0 +1,13 @@
+@import "global/_reset.scss";
+.conteiner{
+  display: block;
+  &__item{
+    display: block;
+  }
+  .block{
+    display: block;
+    .hirwfg{
+      display: flex;
+    }
+  }
+}
